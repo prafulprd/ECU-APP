@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ECU2</string>
+    <string name="button_1">button1</string>
+    <string name="button_2">button2</string>
+    <string name="button_3">button3</string>
+    <string name="button_4">button4</string>
+    <string name="button_5">button5</string>
+    <string name="button_6">button6</string>
+    <string name="button_7">button7</string>
+    <string name="button_8">button8</string>
+    <string name="toolbarName">East Central University</string>
+
+    <string name="buttonApply">APPLY TODAY</string>
+    <string name="apply">READY TO BE A TIGER?</string>
+    <string name="ECUinfo">1100 East 14th Street Ada, Oklahoma 74820</string>
+    <string name="ECUnumber">580-332-8000</string>
+    <string name="ECUcopyright">© 2019 East Central University</string>
+    <string name="ECUstatement">We Educate and Empower Students to Understand and Transform Our World.</string>
+
+    <string name="desc">ecu picture</string>
+
+
+</resources>
